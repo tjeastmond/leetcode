@@ -1,6 +1,6 @@
 # Node modules
 node_modules/
-gusto/
+_misc/gusto/
 
 # Logs
 logs
@@ -24,6 +24,7 @@ coverage/
 # IDE and editor files
 .vscode/
 .idea/
+.zed
 *.sublime-project
 *.sublime-workspace
 
